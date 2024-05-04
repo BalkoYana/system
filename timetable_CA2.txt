@@ -1,0 +1,19 @@
+Timetable for Specialization: CA2
+
+Mon:
+  Time: 1, Professor: Davis, Course: CA2, Subject: Algorithms, Type of Class: Lecture, Number: 2, Duration: 3, Room: RoomB
+
+Tue:
+  Time: 1, Professor: Davis, Course: CA2, Subject: Linear Algebra, Type of Class: Lecture, Number: 5, Duration: 3, Room: RoomA
+
+Wed:
+  Time: 1, Professor: Davis, Course: CA2, Subject: Linear Algebra, Type of Class: Lecture, Number: 5, Duration: 3, Room: Room14
+  Time: 2, Professor: Davis, Course: CA2, Subject: Linear Algebra, Type of Class: Lecture, Number: 5, Duration: 3, Room: Room14
+  Time: 3, Professor: Jones, Course: CA2, Subject: Calculus, Type of Class: P, Number: 2, Duration: 3, Room: Room12
+
+Thu:
+
+Fri:
+  Time: 1, Professor: Davis, Course: CA2, Subject: Algorithms, Type of Class: Lecture, Number: 2, Duration: 3, Room: Room10
+  Time: 2, Professor: Brown, Course: CA2, Subject: Data Structures, Type of Class: Lecture, Number: 1, Duration: 3, Room: Room15
+

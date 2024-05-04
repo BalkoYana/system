@@ -1,0 +1,23 @@
+Timetable for Specialization: MATH3
+
+Mon:
+  Time: 1, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: RoomB
+  Time: 2, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: Lecture, Number: 3, Duration: 2, Room: RoomA
+
+Tue:
+  Time: 1, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: P, Number: 4, Duration: 2, Room: Room6
+  Time: 2, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: RoomB
+
+Wed:
+  Time: 1, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: P, Number: 3, Duration: 2, Room: Room11
+
+Thu:
+  Time: 1, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: P, Number: 3, Duration: 2, Room: Room6
+  Time: 2, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: Lecture, Number: 3, Duration: 2, Room: Room9
+  Time: 3, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: Lecture, Number: 3, Duration: 2, Room: Room10
+
+Fri:
+  Time: 1, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: P, Number: 4, Duration: 2, Room: Room13
+  Time: 2, Professor: Jones, Course: MATH3, Subject: Algorithms, Type of Class: Lecture, Number: 1, Duration: 3, Room: Room9
+  Time: 3, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: Room15
+

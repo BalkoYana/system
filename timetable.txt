@@ -1,0 +1,90 @@
+Mon:
+  Time: 1, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: RoomB
+  Time: 2, Professor: Wilson, Course: PM1, Subject: English, Type of Class: Lecture, Number: 2, Duration: 2, Room: RoomA
+  Time: 3, Professor: Williams, Course: PM1, Subject: Statistics, Type of Class: P, Number: 4, Duration: 2, Room: Room11
+  Time: 4, Professor: Williams, Course: PM1, Subject: Statistics, Type of Class: P, Number: 4, Duration: 2, Room: Room12
+  Time: 5, No class scheduled
+  Time: 6, Professor: Smith, Course: CA1, Subject: Programming, Type of Class: Lecture, Number: 3, Duration: 3, Room: Room10
+  Time: 7, No class scheduled
+  Time: 8, No class scheduled
+  Time: 9, Professor: Wilson, Course: PM1, Subject: English, Type of Class: Lecture, Number: 2, Duration: 2, Room: Room9
+  Time: 10, Professor: Smith, Course: CA1, Subject: Programming, Type of Class: Lecture, Number: 3, Duration: 3, Room: Room10
+  Time: 11, No class scheduled
+  Time: 12, Professor: Smith, Course: CA1, Subject: Programming, Type of Class: Lecture, Number: 3, Duration: 3, Room: Room15
+  Time: 13, Professor: Davis, Course: CA2, Subject: Algorithms, Type of Class: Lecture, Number: 2, Duration: 3, Room: RoomB
+  Time: 14, No class scheduled
+  Time: 15, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: Lecture, Number: 3, Duration: 2, Room: RoomA
+  Time: 16, Professor: Williams, Course: PM1, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: Room15
+
+Tue:
+  Time: 1, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: P, Number: 4, Duration: 2, Room: Room6
+  Time: 2, No class scheduled
+  Time: 3, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: RoomB
+  Time: 4, No class scheduled
+  Time: 5, Professor: Williams, Course: PM1, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: Room10
+  Time: 6, No class scheduled
+  Time: 7, No class scheduled
+  Time: 8, Professor: Smith, Course: PM1, Subject: History, Type of Class: Lecture, Number: 1, Duration: 3, Room: Room14
+  Time: 9, No class scheduled
+  Time: 10, No class scheduled
+  Time: 11, Professor: Brown, Course: CA1, Subject: Math, Type of Class: Lecture, Number: 2, Duration: 3, Room: Room14
+  Time: 12, No class scheduled
+  Time: 13, No class scheduled
+  Time: 14, Professor: Davis, Course: CA2, Subject: Linear Algebra, Type of Class: Lecture, Number: 5, Duration: 3, Room: RoomA
+  Time: 15, No class scheduled
+  Time: 16, Professor: Jones, Course: CA1, Subject: Data Structures, Type of Class: P, Number: 3, Duration: 3, Room: Room11
+
+Wed:
+  Time: 1, No class scheduled
+  Time: 2, No class scheduled
+  Time: 3, Professor: Drown, Course: CA1, Subject: Math, Type of Class: P, Number: 3, Duration: 3, Room: Room11
+  Time: 4, No class scheduled
+  Time: 5, Professor: Davis, Course: CA2, Subject: Linear Algebra, Type of Class: Lecture, Number: 5, Duration: 3, Room: Room14
+  Time: 6, Professor: Davis, Course: CA2, Subject: Linear Algebra, Type of Class: Lecture, Number: 5, Duration: 3, Room: Room14
+  Time: 7, No class scheduled
+  Time: 8, Professor: Jones, Course: CA2, Subject: Calculus, Type of Class: P, Number: 2, Duration: 3, Room: Room12
+  Time: 9, No class scheduled
+  Time: 10, Professor: Smith, Course: PM1, Subject: History, Type of Class: P, Number: 1, Duration: 3, Room: Room13
+  Time: 11, No class scheduled
+  Time: 12, No class scheduled
+  Time: 13, No class scheduled
+  Time: 14, Professor: Smith, Course: CA1, Subject: History, Type of Class: P, Number: 1, Duration: 3, Room: Room6
+  Time: 15, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: P, Number: 3, Duration: 2, Room: Room11
+  Time: 16, No class scheduled
+
+Thu:
+  Time: 1, No class scheduled
+  Time: 2, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: P, Number: 3, Duration: 2, Room: Room6
+  Time: 3, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: Lecture, Number: 3, Duration: 2, Room: Room9
+  Time: 4, Professor: Williams, Course: PM1, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: RoomB
+  Time: 5, No class scheduled
+  Time: 6, Professor: Smith, Course: CA1, Subject: History, Type of Class: Lecture, Number: 1, Duration: 3, Room: RoomA
+  Time: 7, No class scheduled
+  Time: 8, Professor: Johnson, Course: MATH3, Subject: Math, Type of Class: Lecture, Number: 3, Duration: 2, Room: Room10
+  Time: 9, Professor: Wilson, Course: PM1, Subject: English, Type of Class: P, Number: 2, Duration: 2, Room: Room12
+  Time: 10, Professor: Wilson, Course: PM1, Subject: English, Type of Class: P, Number: 2, Duration: 2, Room: Room13
+  Time: 11, Professor: Williams, Course: PM1, Subject: Statistics, Type of Class: P, Number: 4, Duration: 2, Room: Room13
+  Time: 12, No class scheduled
+  Time: 13, No class scheduled
+  Time: 14, Professor: Smith, Course: CA1, Subject: Programming, Type of Class: P, Number: 2, Duration: 2, Room: Room11
+  Time: 15, No class scheduled
+  Time: 16, No class scheduled
+
+Fri:
+  Time: 1, No class scheduled
+  Time: 2, Professor: Williams, Course: PM1, Subject: Statistics, Type of Class: P, Number: 4, Duration: 2, Room: Room11
+  Time: 3, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: P, Number: 4, Duration: 2, Room: Room13
+  Time: 4, Professor: Jones, Course: MATH3, Subject: Algorithms, Type of Class: Lecture, Number: 1, Duration: 3, Room: Room9
+  Time: 5, No class scheduled
+  Time: 6, No class scheduled
+  Time: 7, Professor: Williams, Course: MATH3, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: Room15
+  Time: 8, No class scheduled
+  Time: 9, No class scheduled
+  Time: 10, Professor: Brown, Course: CA1, Subject: Math, Type of Class: Lecture, Number: 2, Duration: 3, Room: Room14
+  Time: 11, No class scheduled
+  Time: 12, Professor: Davis, Course: CA2, Subject: Algorithms, Type of Class: Lecture, Number: 2, Duration: 3, Room: Room10
+  Time: 13, Professor: Brown, Course: CA2, Subject: Data Structures, Type of Class: Lecture, Number: 1, Duration: 3, Room: Room15
+  Time: 14, No class scheduled
+  Time: 15, No class scheduled
+  Time: 16, Professor: Williams, Course: PM1, Subject: Statistics, Type of Class: Lecture, Number: 4, Duration: 2, Room: Room10
+

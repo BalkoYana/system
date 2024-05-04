@@ -1,0 +1,22 @@
+Timetable for Specialization: CA1
+
+Mon:
+  Time: 1, Professor: Smith, Course: CA1, Subject: Programming, Type of Class: Lecture, Number: 3, Duration: 3, Room: Room10
+  Time: 2, Professor: Smith, Course: CA1, Subject: Programming, Type of Class: Lecture, Number: 3, Duration: 3, Room: Room10
+  Time: 3, Professor: Smith, Course: CA1, Subject: Programming, Type of Class: Lecture, Number: 3, Duration: 3, Room: Room15
+
+Tue:
+  Time: 1, Professor: Brown, Course: CA1, Subject: Math, Type of Class: Lecture, Number: 2, Duration: 3, Room: Room14
+  Time: 2, Professor: Jones, Course: CA1, Subject: Data Structures, Type of Class: P, Number: 3, Duration: 3, Room: Room11
+
+Wed:
+  Time: 1, Professor: Drown, Course: CA1, Subject: Math, Type of Class: P, Number: 3, Duration: 3, Room: Room11
+  Time: 2, Professor: Smith, Course: CA1, Subject: History, Type of Class: P, Number: 1, Duration: 3, Room: Room6
+
+Thu:
+  Time: 1, Professor: Smith, Course: CA1, Subject: History, Type of Class: Lecture, Number: 1, Duration: 3, Room: RoomA
+  Time: 2, Professor: Smith, Course: CA1, Subject: Programming, Type of Class: P, Number: 2, Duration: 2, Room: Room11
+
+Fri:
+  Time: 1, Professor: Brown, Course: CA1, Subject: Math, Type of Class: Lecture, Number: 2, Duration: 3, Room: Room14
+
